@@ -6,7 +6,7 @@ public with sharing class Collection_Test {
 public void List_Test() {
 List<String> myList = new List<String>();
 myList.add('Hellｍじょｋｋo');
-myList.add('World');   
+myList.add('Wふぇｗふぇふぇｗorld');   
 system.debug(myList[0]);
 //リストは重複可能
 List<Integer> myList2 = new List<Integer>();
